@@ -7,8 +7,8 @@ window.geometry('440x540')
 window.configure(bg='#333333')
 
 def Mhs():
-    nim = "23100704"
-    nama = "Abdul Aziz"
+    nim = "23100701"
+    nama = "FIRDAUS"
     prodi = "Teknik Informatika"
     Semester = "3"
     if nim_entry.get()==nim and nama_entry.get()==nama and prodi_entry.get()==prodi and semester_entry.get()==Semester:
